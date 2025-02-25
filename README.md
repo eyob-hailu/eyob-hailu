@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyob Hailu</h1>
-<h3 align="center">A passionate Full-Stack | MERN-Stack web developer from Addis Ababa, Ethiopia</h3>
+<h3 align="center">A passionate Full-Stack | MERN-Stack | Angular | Spring Boot web developer from Addis Ababa, Ethiopia</h3>
 
 - 👯 I’m looking to collaborate on **open source projects**
 - 👯 I’m currently open to work
