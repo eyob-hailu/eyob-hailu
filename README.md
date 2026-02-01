@@ -1,109 +1,67 @@
 <h1 align="center">Hi 👋, I'm Eyob Hailu</h1>
-<h3 align="center">
-Software Engineer | Backend-Focused | Spring Boot & NestJS
-</h3>
+<h3 align="center">A passionate Software Developer |SpringBoot |Nest |Prisma |PostgreSQL| MongoDB |Angular| React | Next</h3>
 
-<p align="center">
-I build <b>secure, scalable, and maintainable backend systems</b> with strong focus on  
-<b>clean architecture, database design, and real-world business logic</b>.
-</p>
+- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m currently open to work
 
-<p align="center">
-💼 Open to Work · 🌍 Remote / On-site · 🤝 Open Source Friendly
-</p>
+- 📫 How to reach me **eyobajobi@gmail.com**
 
-<p align="center">
-📫 <a href="mailto:eyobajobi@gmail.com"><b>eyobajobi@gmail.com</b></a>
-</p>
-
----
-
-<h3 align="center">🔗 Connect With Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/eyobhailu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="38"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/eyobhailu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyobhailu" height="30" width="40" />
   </a>
-  <a href="https://fb.com/eyob.hailu.18" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="28" width="38"/>
+  <a href="https://fb.com/eyob.hailu.18" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eyob.hailu.18" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/eyob_hailu_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" width="38"/>
+  <a href="https://instagram.com/eyob_hailu_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyob_hailu_" height="30" width="40" />
   </a>
 </p>
 
----
-
-<h3>🧠 Professional Summary</h3>
-
-<ul>
-  <li>Backend-oriented Software Engineer with enterprise system experience</li>
-  <li>Strong understanding of transactional systems and data integrity</li>
-  <li>Experience building REST APIs with authentication & authorization</li>
-  <li>Comfortable working across backend, frontend, and databases</li>
-</ul>
-
----
-
-<h3>🛠️ Tech Stack</h3>
-
-<b>Backend</b>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" width="40" height="40"/>  
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/> 
+  </a>
+  
 </p>
-
-<b>Databases</b>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36"/>
-</p>
-
-<b>Frontend</b>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36"/>
-</p>
-
-<b>Tools</b>
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/>
-</p>
-
----
-
-<h3>📌 Selected Experience</h3>
-
-<b>Enterprise Fixed Asset Management System (Banking)</b>
-<ul>
-  <li>Developed transaction-safe backend using Spring Boot and SQL</li>
-  <li>Designed relational schemas and REST APIs for asset lifecycle management</li>
-  <li>Implemented audit logging and data consistency controls</li>
-  <li><i>Source code is private due to banking confidentiality</i></li>
-</ul>
-
----
-
-<h3>📈 GitHub Stats</h3>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=eyobhailu&show_icons=true&theme=react" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobhailu&layout=compact&theme=react" height="155"/>
-</p>
-
----
-
-<h3>🎯 Career Objective</h3>
-
-<p>
-To contribute as a backend engineer in a professional team building scalable, reliable, and impactful software systems.
-</p>
-
-<p><b>📩 Interested in working together? Let’s connect.</b></p>
