@@ -45,3 +45,11 @@ A Passionate Software Developer | Backend & Full-Stack Engineer
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="45" height="45"/>
 </p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eyobhailu&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobhailu&layout=compact" height="170"/>
+</p>
