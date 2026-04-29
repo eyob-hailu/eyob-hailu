@@ -19,6 +19,12 @@ A Passionate Software Developer | Backend & Full-Stack Engineer
   <a href="https://instagram.com/eyob_hailu_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45"/></a>
 </p>
 
+<p align="center">
+  <a href="https://eyob-hailu.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
 ---
 
 <h3 align="center">Languages and Tools</h3>
