@@ -56,8 +56,6 @@
 - 🏗️ **Core Focus:** Enterprise Authentication & Authorization (RBAC, JWT, JWKS, Asymmetric RS256, OAuth2), distributed architectures, and database performance optimization.
 - 🔭 **Current Work:** Expanding enterprise authentication toolkits and building high-throughput backend services.
 - 👯 **Collaboration:** Open to collaborating on mission-critical open-source packages, fintech backends, and security tooling.
-- 💬 **Ask me about:** Spring Boot vs. Express architecture, ThreadLocal/AsyncLocalStorage request context, and API security.
-
 ---
 
 ### 🛠️ Tech Stack & Languages
@@ -73,14 +71,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,tailwind,docker,vercel" />
 </p>
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyob-hailu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyob-hailu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
