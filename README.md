@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyob Hailu</h1>
 
 <h3 align="center">
-  Software Developer at Hibret Bank | Open-Source Creator & Backend Architect
+  Software Developer  | Open-Source Creator 
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### 💼 Professional Overview
 
-- 🏦 **Banking & Enterprise Systems:** Software Developer at **[Hibret Bank](https://www.hibretbank.com.et/)**, engineering secure, mission-critical financial backend services, database transactions, and internal banking software.
+- 🏦 **Banking & Enterprise Systems:** Software Developer at Hibret Bank, engineering secure, mission-critical financial backend services, database transactions, and internal banking software.
 - 🛡️ **Open-Source Creator:** Author and maintainer of **[Express Spring Security](https://github.com/eyob-hailu/express-spring-security)**, bridging enterprise Spring Security patterns with the TypeScript and Express ecosystem.
 - 🏗️ **Core Specialization:** Enterprise Identity & Access Management (RBAC, OAuth2, JWT, Asymmetric RS256 & JWKS), distributed architectures, and relational database optimization.
 - 💻 **Full-Stack Proficiency:** Primary focus on **Spring Boot** on the backend paired with enterprise-grade **Angular** on the frontend.
